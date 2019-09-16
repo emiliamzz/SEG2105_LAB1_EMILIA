@@ -1,2 +1,4 @@
 Name: Emilia Zielinska
 Email: eziel034@uottawa.ca
+
+I am in my local git repo.
